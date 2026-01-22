@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Ekaterina Chistova
 
-<!--
-**katerina-creator/katerina-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Project & Tech Leadership | EdTech | Software Development  
+📍 Remote / Europe  
 
-Here are some ideas to get you started:
+### 🔗 Portfolio
+👉 https://nextgen-coders-lab.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Key roles
+- Project Manager / Team Lead  
+- EdTech Director  
+- Software Developer (Java)
+
+### 🌐 Contacts
+- LinkedIn: www.linkedin.com/in/ekaterina-chistova-9573532bb
+- GitHub: https://github.com/katerina-creator
