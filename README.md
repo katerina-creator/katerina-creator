@@ -1,6 +1,6 @@
 ## 👋 Ekaterina Chistova
 
-🎯 Project & Tech Leadership | EdTech | Software Development  
+🎯 Project & Tech Leadership | FinTech | EdTech | Software Development  
 📍 Remote / Europe  
 
 ### 🔗 Portfolio
