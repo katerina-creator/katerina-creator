@@ -6,6 +6,17 @@
 ### 🔗 Portfolio
 👉 https://nextgen-coders-lab.github.io/
 
+📘 Author
+
+**Java Basics for Beginners**  
+Project-based Java course for teens (11–16)
+
+• Includes hands-on exercises and 2D game final project  
+• Based on real classroom teaching experience  
+• Published on Amazon (Kindle & Paperback)
+
+👉 [View on Amazon]([https://your-amazon-link-here](https://www.amazon.com/dp/B0GMZ31WBJ?ref=sp_email))
+
 ### 🧩 Key roles
 - Project Manager / Team Lead  
 - EdTech Director  
