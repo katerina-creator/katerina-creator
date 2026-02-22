@@ -3,9 +3,6 @@
 🎯 Project & Tech Leadership | FinTech | EdTech | Software Development  
 📍 Remote / Europe  
 
-### 🔗 Portfolio
-👉 https://nextgen-coders-lab.github.io/
-
 📘 Author
 
 **Java Basics for Beginners**  
@@ -16,6 +13,9 @@ Project-based Java course for teens (11–16)
 • Published on Amazon (Kindle & Paperback)
 
 👉 [View on Amazon]([https://your-amazon-link-here](https://www.amazon.com/dp/B0GMZ31WBJ?ref=sp_email))
+
+### 🔗 Portfolio
+👉 https://nextgen-coders-lab.github.io/
 
 ### 🧩 Key roles
 - Project Manager / Team Lead  
