@@ -12,7 +12,7 @@ Project-based Java course for teens (11–16)
 • Based on real classroom teaching experience  
 • Published on Amazon (Kindle & Paperback)
 
-👉 [View on Amazon]([https://your-amazon-link-here](https://www.amazon.com/dp/B0GMZ31WBJ?ref=sp_email))
+👉 [View on Amazon](https://www.amazon.com/dp/B0GMZ31WBJ?ref=sp_email)
 
 ### 🔗 Portfolio
 👉 https://nextgen-coders-lab.github.io/
