@@ -20,7 +20,6 @@ Project-based Java course for teens (11–16)
 👉 Resume Builder Bot (Telegram)
 Product architecture • Backend • UX logic • PDF generation
 https://t.me/cvauthorbot
-
 Telegram-based resume builder with structured data storage and PDF export.
 
 ### 🧩 Key roles
