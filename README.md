@@ -18,9 +18,10 @@ Project-based Java course for teens (11–16)
 👉 https://nextgen-coders-lab.github.io/
 
 👉 Resume Builder Bot (Telegram)
-Product architecture • Backend • UX logic • PDF generation
-https://t.me/cvauthorbot
+Product architecture • Backend • UX logic • PDF generation  https://t.me/cvauthorbot
+
 Telegram-based resume builder with structured data storage and PDF export.
+
 
 ### 🧩 Key roles
 - Project Manager / Team Lead  
