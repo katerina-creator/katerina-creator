@@ -15,13 +15,23 @@ Project-based Java course for teens (11–16)
 👉 [View on Amazon](https://www.amazon.com/dp/B0GMZ31WBJ)
 
 ### 🔗 Portfolio
-👉 https://nextgen-coders-lab.github.io/
+👉 Crypto Market Analytics Platform (MVP)  
+Product architecture • Backend • Data pipelines • Market analytics  
 
-👉 Resume Builder Bot (Telegram)
-Product architecture • Backend • UX logic • PDF generation  https://t.me/cvauthorbot
+https://katerina-creator.github.io/portfolio/
 
-Telegram-based resume builder with structured data storage and PDF export.
+End-to-end MVP of a crypto analytics platform built on Binance market data.
 
+• Designed system architecture: data ingestion → processing → analytics → UI  
+• Implemented REST + WebSocket pipelines for historical and live market data  
+• Built analytics layer (market state, signals, volatility, participation metrics)  
+• Developed live dashboards:
+  - Live Market (real-time data)
+  - Signals Feed (trading signals)
+  - Market State Analysis (aggregated metrics)
+• Designed scalable storage with hot data + archive strategy  
+
+Tech: Java, Spring Boot, PostgreSQL, WebSocket, REST API  
 
 ### 🧩 Key roles
 - Project Manager / Team Lead  
